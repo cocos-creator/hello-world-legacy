@@ -1,5 +1,5 @@
 {
-	"name": "i18n:TEMPLATES.helloworld.name",
-	"desc": "i18n:TEMPLATES.helloworld.desc",
+	"name": "TEMPLATES.helloworld.name",
+	"desc": "TEMPLATES.helloworld.desc",
 	"banner": "template-banner.png"
 }
