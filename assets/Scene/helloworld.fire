@@ -116,9 +116,9 @@
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
-      "r": 147,
-      "g": 185,
-      "b": 183,
+      "r": 27,
+      "g": 38,
+      "b": 46,
       "a": 255
     },
     "_cascadeOpacityEnabled": true,
@@ -192,10 +192,12 @@
       "__id__": 3
     },
     "_enabled": true,
-    "_spriteFrame": null,
+    "_spriteFrame": {
+      "__uuid__": "410fb916-8721-4663-bab8-34397391ace7"
+    },
     "_type": 1,
     "_useOriginalSize": false,
-    "_atlas": ""
+    "_atlas": null
   },
   {
     "__type__": "cc.Node",
