@@ -6,7 +6,7 @@
     "portrait": false,
     "upsideDown": false
   },
-  "packageName": "org.cocos2d.hello_world",
+  "packageName": "org.cocos2d.helloworld",
   "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
   "title": "hello_world",
   "webOrientation": "auto"
